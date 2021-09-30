@@ -42,5 +42,3 @@ CSV File Path to Modify
 Lastly, changes to some labels for some of the values to make it more representative of either the region, the meaningful value to tally and percentages between candidates would be good examples for how this code can be taken and modified as a simple tool to tally and showcase significant results from a given election as long as the given CSV file as mentioned has either the same format or the code changes which columns to pull the data from.
 
 Show Columns and Variable assigned that can be modified
-
-Paste Code below
