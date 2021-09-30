@@ -9,8 +9,6 @@ The purpose of this audit is to summarize key data points that were generated to
 
 Election-Audit Results
 
-(Include Screenshot of txt output file)
-
 How many votes were cast in this congressional election?
 
 All findings can be linked to the above screenshot of the txt file that printed the results. For this congressional election, we can see that the total amount of votes is 369,711.
